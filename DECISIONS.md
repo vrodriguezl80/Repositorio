@@ -2,7 +2,7 @@
 
 **Nombre del Candidato:** [Vladimir Rodriguez Londoño]  
 **Fecha:** [13/08/2026]  
-**Enlace al Video de Sustentación (Loom/Drive):** [Poner Enlace Aquí]  
+**Enlace al Video de Sustentación (Loom/Drive):** https://drive.google.com/file/d/1pvI_xfnWS800Pa32odkUOwZjRYJhu7Fx/view?usp=drive_link
 
 ---
 
