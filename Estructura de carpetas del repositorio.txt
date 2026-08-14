@@ -1,0 +1,6 @@
+/
+├── .gitignore
+├── DECISIONS.md
+└── ejercicio-1/
+    ├── app.py
+    └── requirements.txt
